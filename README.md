@@ -1,6 +1,6 @@
 # Github Actions katas
 
-## Introduction
+## Introduction 
 
 This repository contains a set of exercises to learn Github Actions.
 
